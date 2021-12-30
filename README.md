@@ -9,4 +9,6 @@ Following camera angles are supported:
 * Slip Fielder 1, 2 and 3 Cameras
 * Off-side Close Fielder Camera
 
+A working demo is available here: http://codeding.com/PitchView/
+
 ![PitchView Screenshot](/Screenshots/MainUmpireView.png)
